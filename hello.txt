@@ -1,3 +1,7 @@
 public static void main(){
 	System.out.println();
 }
+
+public void 123
+
+
