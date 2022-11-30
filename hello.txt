@@ -6,6 +6,6 @@ public void 123
 
 public void 123
 
-system.out.print
+system.out.prin hot-fix test
 
 123 mester test
